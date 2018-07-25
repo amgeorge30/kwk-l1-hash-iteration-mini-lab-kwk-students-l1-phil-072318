@@ -29,7 +29,7 @@ years = $SUMMER_OLYMPICS.values
 
      
  $SUMMER_OLYMPICS.each do |cities, years|
-   puts "The #{years} summer olympics took place it #{cities}"
+   puts "The #{years} summer olympics took place in #{cities}"
    
    end
  end
